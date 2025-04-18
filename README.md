@@ -11,4 +11,4 @@ This is a simple x86 assembly language program written for 64-bit FreeBSD system
   - "Input is equal to 5"
   - "Input is above 5"
 - Loops until user exits with `'q'` or `'Q'`
-- Written in NASM for 32-bit FreeBSD using native `syscall` interface
+- Written in NASM for 64-bit FreeBSD using native `syscall` interface
