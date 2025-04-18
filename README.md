@@ -1,6 +1,6 @@
 # Assembly Input Comparison Program
 
-This is a simple x86 assembly language program written for 32-bit FreeBSD systems. It accepts a single-digit input from the user, compares it to the value `5`, and displays whether the input is **below**, **equal**, or **above** 5. The program loops continuously until the user inputs `'q'` or `'Q'` to quit.
+This is a simple x86 assembly language program written for 64-bit FreeBSD systems. It accepts a single-digit input from the user, compares it to the value `5`, and displays whether the input is **below**, **equal**, or **above** 5. The program loops continuously until the user inputs `'q'` or `'Q'` to quit.
 
 ## Features
 
